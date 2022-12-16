@@ -1,0 +1,7 @@
+.ul-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  background-color: lightcyan;
+  list-style: none;
+}
